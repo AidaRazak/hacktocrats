@@ -1,2 +1,3 @@
 # hacktocrats
-mini it project
+mini it project (psp 0201) ;ain-aina-aliamel-aida
+
